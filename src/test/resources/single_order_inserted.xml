@@ -1,0 +1,12 @@
+<dataset>
+    <table name="OrderTable">
+        <column>Symbol</column>
+        <column>Price</column>
+        <column>Quantity</column>
+        <row>
+            <value>EUR/USD</value>
+            <value>1.5</value>
+            <value>100</value>
+        </row>
+    </table>
+</dataset>
